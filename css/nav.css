@@ -1,0 +1,48 @@
+nav {
+  background-color: rgba(255,255,255,.5);
+  border-color: white;
+  border-radius: 5rem;
+  border-style: solid;
+  border-width: 1px;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  left: 26.5%;
+  margin: 0;
+  padding: 1%;
+  position: fixed;
+  top: var(--gap);
+  visibility: collapse;
+  width: 45%;
+}
+
+nav h1 {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+nav img {
+  width: 2.5rem;
+  border-radius: 50%;
+}
+
+nav h1 {
+  font-weight: bold;
+  font-size: 95%;
+}
+
+html:not([data-shownav="hide"]) nav {
+  visibility: visible;
+}
+
+html:not([data-shownav="show"]) nav {
+  visibility: collapse;
+}
+
+@media only screen and (max-width: 720px) and (orientation: portrait) {
+  nav {
+    width: 90%;
+    left: 4%;
+  }
+}
+

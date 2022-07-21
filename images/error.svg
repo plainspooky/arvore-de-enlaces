@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="33.866665mm"
+   height="33.866665mm"
+   viewBox="0 0 33.866665 33.866665"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="error.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="4.0718557"
+     inkscape:cx="62.747803"
+     inkscape:cy="84.605159"
+     inkscape:window-width="2560"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-88.066666,-131.56667)">
+    <rect
+       style="fill:#ffffff;stroke-width:1.07092;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="rect1766"
+       width="33.866665"
+       height="33.866665"
+       x="88.066666"
+       y="131.56667" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.49081;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path2329"
+       cx="99.708336"
+       cy="145.325"
+       rx="2.6458333"
+       ry="5.2916665" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.49081;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path2329-35"
+       cx="-158.55417"
+       cy="105"
+       rx="2.6458333"
+       ry="5.2916665"
+       transform="rotate(-90)" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.49081;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path2329-3"
+       cx="110.29166"
+       cy="145.325"
+       rx="2.6458333"
+       ry="5.2916665" />
+  </g>
+</svg>
