@@ -1,0 +1,14 @@
+{
+  "name": "Usuário de Mentira",
+  "description": "Este é perfil de um usuário de mentira sem conteúdo algum, nem mesmo uma foto.",
+  "links":[
+    {
+      "name": "Blog de mentira",
+      "url": "#"
+    },
+    {
+      "name": "Perfil falso nas redes sociais Nº12345",
+      "url": "#"
+    }
+  ]
+}
