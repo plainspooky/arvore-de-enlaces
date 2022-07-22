@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="enlace_black.svg"
+   sodipodi:docname="logo-black.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,12 +28,12 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="4.0718557"
-     inkscape:cx="66.186038"
-     inkscape:cy="69.133097"
-     inkscape:window-width="1280"
-     inkscape:window-height="1016"
-     inkscape:window-x="20"
-     inkscape:window-y="20"
+     inkscape:cx="13.507355"
+     inkscape:cy="74.904423"
+     inkscape:window-width="1687"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -52,14 +52,14 @@
        y="131.56667" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.8953px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.697384"
-       x="91.052353"
-       y="159.09694"
+       style="font-style:normal;font-weight:normal;font-size:13.9476px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.348692"
+       x="98.026169"
+       y="153.79846"
        id="text1178"><tspan
          sodipodi:role="line"
          id="tspan1176"
-         style="fill:#ffffff;stroke-width:0.697384"
-         x="91.052353"
-         y="159.09694">⌘</tspan></text>
+         style="fill:#ffffff;stroke-width:0.348692"
+         x="98.026169"
+         y="153.79846">⌘</tspan></text>
   </g>
 </svg>
