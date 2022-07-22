@@ -18,7 +18,7 @@ const getFirstChildOnElements = (parentElements, child) => {
   );
 };
 
-getUsernameFromURL = () => {
+const getUsernameFromURL = () => {
   currentURL = new URL(document.URL);
   if (currentURL.search[0] === "?") {
     const searchString = currentURL.search.slice(1).split("&");
@@ -28,7 +28,6 @@ getUsernameFromURL = () => {
 };
 
 const NO_AVATAR_IMAGE = "images/no-avatar.svg";
-const ERROR_IMAGE = "images/error.svg";
 
 const updateProfilePage = (page, data) => {
   page.avatar.forEach((avatar) => {
@@ -58,7 +57,9 @@ const updateProfilePage = (page, data) => {
   });
 };
 
-updateErrorPage = (page) => {
+const ERROR_IMAGE = "images/error.svg";
+
+const updateErrorPage = (page) => {
   page.avatar.src = ERROR_IMAGE;
   page.title.textContent = t("Something went wrong!");
   page.message.textContent = t(
