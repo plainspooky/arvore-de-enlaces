@@ -1,6 +1,5 @@
 const fetchProfileData = () => {
   const username = getUsernameFromURL();
-
   const url = `/assets/data/people/${username}.json`;
   return fetch(url)
     .then((response) => response.json())
