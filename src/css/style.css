@@ -1,11 +1,9 @@
 :root {
-  /* valores padrão para o CSS */
   --font-name: sans-serif;
   --gap: 1rem;
   --primary-color: rgb(0, 127, 191);
   --secondary-color: rgb(20, 9, 0);
   --text-color: white;
-  /* https://www.w3schools.com/Css/css3_variables_javascript.asp */
 }
 
 body {
